@@ -2,7 +2,7 @@
 
 我们计划制作一个池核风格的 3D 解谜游戏，暂定名为 *loopool*。
 
-如果你想阅读游戏的程序源码，请联系管理员申请加入组织。
+如果你想参与游戏制作、为游戏提供建议或者阅读程序源码，请联系管理员申请加入组织。
 
 - - -
 
@@ -10,4 +10,4 @@
 
 We are planning to make a poolcore-themed 3D puzzle game; the game's name is temporarily set to be *loopool*.
 
-If you want to read the source code of the game project, please contact the administrators to join the organization.
+If you are interested in participating in game development, giving advice or reading the source code, please contact the administrators to join the organization.
